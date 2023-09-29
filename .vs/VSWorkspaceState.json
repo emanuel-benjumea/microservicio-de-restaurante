@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Restaurante",
+    "\\Restaurante\\bin",
+    "\\Restaurante\\bin\\Debug",
+    "\\Restaurante\\bin\\Debug\\net6.0",
+    "\\Restaurante\\bin\\Release",
+    "\\Restaurante\\bin\\Release\\net6.0",
+    "\\Restaurante\\obj",
+    "\\Restaurante\\Pages",
+    "\\Restaurante\\Properties"
+  ],
+  "SelectedNode": "\\Restaurante\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}
